@@ -1,5 +1,4 @@
-# StoHexGo: Learning Go and Hexagonal Architecture through Stock Portfolio Management
-
+# StoHexGo
 
 
 ## Project Overview
@@ -42,7 +41,7 @@ The core challenge is to build a system that manages a portfolio of stocks, enab
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/anxkhn/StoHexGo.git)
+    git clone https://github.com/anxkhn/StoHexGo.git
     cd StoHexGo
     ```
 
