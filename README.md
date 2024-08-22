@@ -33,7 +33,7 @@ The core challenge is to build a system that manages a portfolio of stocks, enab
 
 ### Prerequisites
 
--   **Go 2.22+**
+-   **Go 1.22+**
 -   **SQLite Database** (managed via GORM)
 
 ### Installation and Setup
